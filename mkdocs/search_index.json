@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Portfolio of raimon\n\n\nThis page is a portfolio about the OSS activity of \nraimon\n.\n\n\nAbout me\n\n\n\n\nProfile of raimon\n\n\nMy Tech Blog\n\n\n\n\nOpen-source software product\n\n\n\n\nrequirements.txt.vim\n\n\nthe Requirements File Format syntax support for Vim\n\n\n\n\n\n\nuserscripts\n\n\nUserScript for Greasemonkey and a similar function\n\n\n\n\n\n\n\n\nOpen-source contributing\n\n\n2016\n\n\n\n\nFix translation at file.po by raimon49 \u30fb Pull Request #1 \u30fb tekapo/fabric\n\n\nAdd command line alias '-U' as '--upgrade' by raimon49 \u30fb Pull Request #330 \u30fb nvie/pip-tools\n\n\nSupport renewed URLs at 'LDR' by raimon49 \u30fb Pull Request #4 \u30fb ussy/greasemonkey\n\n\nUse relative links that recommended way by GitHub Inc. by raimon49 \u30fb Pull Request #93 \u30fb JetBrains/ideavim\n\n\n\n\n2015\n\n\n\n\nAdd '-n' option as shorthand of '--dry-run' at pip-compile, pip-sync by raimon49 \u30fb Pull Request #271 \u30fb nvie/pip-tools\n\n\n\u300c\u7e70\u308a\u8fd4\u3057\u300d\u306e\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9\u304c\u30a8\u30e9\u30fc\u306b\u306a\u308b\u306e\u3092\u4fee\u6b63 by raimon49 \u30fb Pull Request #94 \u30fb mixi-inc/AndroidTraining\n\n\nFix quote at overview documentation by raimon49 \u30fb Pull Request #1400 \u30fb jscs-dev/node-jscs\n\n\nUse relative links by raimon49 \u30fb Pull Request #734 \u30fb XVimProject/XVim\n\n\nFix brace at 'NEST_SITEMAP_RSS_LINK' by raimon49 \u30fb Pull Request #6 \u30fb molivier/nest\n\n\nAdd annotate using a two letter prefix by raimon49 \u30fb Pull Request #99 \u30fb NYTimes/objective-c-style-guide\n\n\n\n\n2014\n\n\n\n\nReady for Greasemonkey 2.0 by raimon49 \u30fb Pull Request #3 \u30fb ussy/greasemonkey\n\n\nAdd kill parameter 'rt' by raimon49 \u30fb Pull Request #6 \u30fb wedata/UrlCleaner\n\n\nAdd kill parameter 'iref' by raimon49 \u30fb Pull Request #5 \u30fb wedata/UrlCleaner\n\n\nAdd kill parameter 'n_cid' by raimon49 \u30fb Pull Request #4 \u30fb wedata/UrlCleaner\n\n\nAdd Hatena Keyword by raimon49 \u30fb Pull Request #3 \u30fb wedata/UrlCleaner\n\n\nAdd kill parameter 'ref' by raimon49 \u30fb Pull Request #2 \u30fb wedata/UrlCleaner\n\n\nRestore from items-old.json by raimon49 \u30fb Pull Request #1 \u30fb wedata/UrlCleaner\n\n\nMigrate domain by raimon49 \u30fb Pull Request #2 \u30fb ussy/greasemonkey\n\n\nSupport fallback plan by raimon49 \u30fb Pull Request #1 \u30fb ussy/greasemonkey", 
+            "title": "Portfolio"
+        }, 
+        {
+            "location": "/#portfolio-of-raimon", 
+            "text": "This page is a portfolio about the OSS activity of  raimon .", 
+            "title": "Portfolio of raimon"
+        }, 
+        {
+            "location": "/#about-me", 
+            "text": "Profile of raimon  My Tech Blog", 
+            "title": "About me"
+        }, 
+        {
+            "location": "/#open-source-software-product", 
+            "text": "requirements.txt.vim  the Requirements File Format syntax support for Vim    userscripts  UserScript for Greasemonkey and a similar function", 
+            "title": "Open-source software product"
+        }, 
+        {
+            "location": "/#open-source-contributing", 
+            "text": "", 
+            "title": "Open-source contributing"
+        }, 
+        {
+            "location": "/#2016", 
+            "text": "Fix translation at file.po by raimon49 \u30fb Pull Request #1 \u30fb tekapo/fabric  Add command line alias '-U' as '--upgrade' by raimon49 \u30fb Pull Request #330 \u30fb nvie/pip-tools  Support renewed URLs at 'LDR' by raimon49 \u30fb Pull Request #4 \u30fb ussy/greasemonkey  Use relative links that recommended way by GitHub Inc. by raimon49 \u30fb Pull Request #93 \u30fb JetBrains/ideavim", 
+            "title": "2016"
+        }, 
+        {
+            "location": "/#2015", 
+            "text": "Add '-n' option as shorthand of '--dry-run' at pip-compile, pip-sync by raimon49 \u30fb Pull Request #271 \u30fb nvie/pip-tools  \u300c\u7e70\u308a\u8fd4\u3057\u300d\u306e\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9\u304c\u30a8\u30e9\u30fc\u306b\u306a\u308b\u306e\u3092\u4fee\u6b63 by raimon49 \u30fb Pull Request #94 \u30fb mixi-inc/AndroidTraining  Fix quote at overview documentation by raimon49 \u30fb Pull Request #1400 \u30fb jscs-dev/node-jscs  Use relative links by raimon49 \u30fb Pull Request #734 \u30fb XVimProject/XVim  Fix brace at 'NEST_SITEMAP_RSS_LINK' by raimon49 \u30fb Pull Request #6 \u30fb molivier/nest  Add annotate using a two letter prefix by raimon49 \u30fb Pull Request #99 \u30fb NYTimes/objective-c-style-guide", 
+            "title": "2015"
+        }, 
+        {
+            "location": "/#2014", 
+            "text": "Ready for Greasemonkey 2.0 by raimon49 \u30fb Pull Request #3 \u30fb ussy/greasemonkey  Add kill parameter 'rt' by raimon49 \u30fb Pull Request #6 \u30fb wedata/UrlCleaner  Add kill parameter 'iref' by raimon49 \u30fb Pull Request #5 \u30fb wedata/UrlCleaner  Add kill parameter 'n_cid' by raimon49 \u30fb Pull Request #4 \u30fb wedata/UrlCleaner  Add Hatena Keyword by raimon49 \u30fb Pull Request #3 \u30fb wedata/UrlCleaner  Add kill parameter 'ref' by raimon49 \u30fb Pull Request #2 \u30fb wedata/UrlCleaner  Restore from items-old.json by raimon49 \u30fb Pull Request #1 \u30fb wedata/UrlCleaner  Migrate domain by raimon49 \u30fb Pull Request #2 \u30fb ussy/greasemonkey  Support fallback plan by raimon49 \u30fb Pull Request #1 \u30fb ussy/greasemonkey", 
+            "title": "2014"
+        }, 
+        {
+            "location": "/profile/", 
+            "text": "Profile of raimon\n\n\nPersonal data\n\n\n\n\nScreenname\n\n\nraimon\n\n\n\n\n\n\nLocation of work\n\n\nNagoya, Japan\n\n\n\n\n\n\nOccupations\n\n\nFront-End (mobile app and web app) developer\n\n\n\n\n\n\nSex\n\n\nmale\n\n\n\n\n\n\nBirthday\n\n\n1981-11-09\n\n\n\n\n\n\n\n\nSkill set\n\n\n\n\nFront-End mobile app\n\n\nObjective-C (iOS)\n\n\nSwift (iOS)\n\n\nJava (Android, I am studying...)\n\n\n\n\n\n\nFront-End server and Web API\n\n\nJavaScript\n\n\nPython\n\n\nPHP\n\n\n\n\n\n\nVersion Control System\n\n\nGit\n\n\nMercurial\n\n\nSubversion\n\n\n\n\n\n\nDatabase\n\n\nMySQL\n\n\n\n\n\n\n\n\nInterest to\n\n\n\n\nDevelopment tool\n\n\nSee my \ndotfiles\n\n\n\n\n\n\nSeeing a live of Heavy Metal\n\n\nAmorphis\n\n\nSoilwork\n\n\nHelloween\n\n\nBlind Guardian\n\n\nRage\n\n\n\n\n\n\nJapanese comics\n\n\nWeekly Shonen Jump\n\n\n\n\n\n\n\n\nJob history\n\n\nTBA\n\n\nContact me\n\n\n\n\nGitHub\n\n\nTwitter", 
+            "title": "Profile"
+        }, 
+        {
+            "location": "/profile/#profile-of-raimon", 
+            "text": "", 
+            "title": "Profile of raimon"
+        }, 
+        {
+            "location": "/profile/#personal-data", 
+            "text": "Screenname  raimon    Location of work  Nagoya, Japan    Occupations  Front-End (mobile app and web app) developer    Sex  male    Birthday  1981-11-09", 
+            "title": "Personal data"
+        }, 
+        {
+            "location": "/profile/#skill-set", 
+            "text": "Front-End mobile app  Objective-C (iOS)  Swift (iOS)  Java (Android, I am studying...)    Front-End server and Web API  JavaScript  Python  PHP    Version Control System  Git  Mercurial  Subversion    Database  MySQL", 
+            "title": "Skill set"
+        }, 
+        {
+            "location": "/profile/#interest-to", 
+            "text": "Development tool  See my  dotfiles    Seeing a live of Heavy Metal  Amorphis  Soilwork  Helloween  Blind Guardian  Rage    Japanese comics  Weekly Shonen Jump", 
+            "title": "Interest to"
+        }, 
+        {
+            "location": "/profile/#job-history", 
+            "text": "TBA", 
+            "title": "Job history"
+        }, 
+        {
+            "location": "/profile/#contact-me", 
+            "text": "GitHub  Twitter", 
+            "title": "Contact me"
+        }
+    ]
+}
