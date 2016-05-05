@@ -9,3 +9,9 @@ Run local server
 ```sh
 $ mkdocs serve -a <IP:PORT>
 ```
+
+## Deployment
+
+```sh
+$ mkdocs gh-deploy --clean
+```
