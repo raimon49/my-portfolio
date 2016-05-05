@@ -4,5 +4,6 @@ repo_url: https://github.com/raimon49/my-portfolio
 site_description: raimon's OSS activity portfolio
 site_author: raimon49@hotmail.com
 pages:
-  - Home: index.md
+  - Portfolio: index.md
+  - Profile: profile.md
 theme: flatly
