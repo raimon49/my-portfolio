@@ -12,7 +12,9 @@ Run local server
 $ mkdocs serve -a <IP:PORT>
 ```
 
-## Update dependencies
+## Manage dependencies
+
+Update dependencies
 
 ```sh
 $ pip-compile -U requirements.in
