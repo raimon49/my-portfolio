@@ -42,6 +42,14 @@
     * Rage
 * Japanese comics
     * Weekly Shonen Jump
+* Old style video games
+    * NiGHTS
+    * Sonic Adventure
+    * Virtua Fighter series (2, 3, 4)
+    * Chrono Trigger
+    * Final Fantasy series (3, 4, 5, 6)
+    * Romancing SaGa series (1, 2, 3)
+    * Culdcept series (still continuing!)
 
 ## Job history
 
