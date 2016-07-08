@@ -19,6 +19,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2016
 
+* [Fix 'package\_management\_command()' to 'bundle' by raimon49 ・ Pull Request #233 ・ pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder/pull/233 "Fix 'package_management_command()' to 'bundle' by raimon49 ・ Pull Request #233 ・ pivotal/LicenseFinder")
 * [Add match pattern underscore to hex, binary, octal literals by raimon49 ・ Pull Request #91 ・ keith/swift.vim](https://github.com/keith/swift.vim/pull/91 "Add match pattern underscore to hex, binary, octal literals by raimon49 ・ Pull Request #91 ・ keith/swift.vim")
 * [Fix translation at file.po by raimon49 ・ Pull Request #1 ・ tekapo/fabric](https://github.com/tekapo/fabric/pull/1 "Fix translation at file.po by raimon49 ・ Pull Request #1 ・ tekapo/fabric")
 * [Add command line alias '-U' as '--upgrade' by raimon49 ・ Pull Request #330 ・ nvie/pip-tools](https://github.com/nvie/pip-tools/pull/330 "Add command line alias '-U' as '--upgrade' by raimon49 ・ Pull Request #330 ・ nvie/pip-tools")
