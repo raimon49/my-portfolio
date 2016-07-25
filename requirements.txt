@@ -19,4 +19,4 @@ pip-tools==1.7.0
 PyYAML==3.11              # via mkdocs
 singledispatch==3.4.0.3   # via tornado
 six==1.10.0               # via livereload, pip-tools, singledispatch
-tornado==4.4              # via livereload, mkdocs
+tornado==4.4.1            # via livereload, mkdocs
