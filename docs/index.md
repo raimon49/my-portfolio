@@ -19,6 +19,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2016
 
+* [Add keywords and examples for custom operator symbols by raimon49 ・ Pull Request #104 ・ keith/swift.vim](https://github.com/keith/swift.vim/pull/104 "Add keywords and examples for custom operator symbols by raimon49 ・ Pull Request #104 ・ keith/swift.vim")
 * [Support highlighting 'MARK' in comments by raimon49 ・ Pull Request #3492 ・ apple/swift](https://github.com/apple/swift/pull/3492 "[vim] Support highlighting 'MARK' in comments by raimon49 ・ Pull Request #3492 ・ apple/swift")
 * [Fix 'package\_management\_command()' to 'bundle' by raimon49 ・ Pull Request #233 ・ pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder/pull/233 "Fix 'package_management_command()' to 'bundle' by raimon49 ・ Pull Request #233 ・ pivotal/LicenseFinder")
 * [Add match pattern underscore to hex, binary, octal literals by raimon49 ・ Pull Request #91 ・ keith/swift.vim](https://github.com/keith/swift.vim/pull/91 "Add match pattern underscore to hex, binary, octal literals by raimon49 ・ Pull Request #91 ・ keith/swift.vim")
