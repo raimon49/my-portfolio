@@ -4,18 +4,17 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-backports-abc==0.4        # via tornado
+backports-abc==0.5        # via tornado
 certifi==2016.9.26        # via tornado
 click==6.6                # via mkdocs, pip-tools
 first==2.0.1              # via pip-tools
 Jinja2==2.8               # via mkdocs
-livereload==2.4.1         # via mkdocs
+livereload==2.5.0         # via mkdocs
 Markdown==2.6.7           # via mkdocs
 MarkupSafe==0.23          # via jinja2
-mkdocs-bootstrap==0.1.1   # via mkdocs
-mkdocs-bootswatch==0.4.0  # via mkdocs
-mkdocs==0.15.3
-pip-tools==1.7.0
+mkdocs-bootswatch==0.4.0
+mkdocs==0.16.0
+pip-tools==1.8.0
 PyYAML==3.12              # via mkdocs
 singledispatch==3.4.0.3   # via tornado
 six==1.10.0               # via livereload, pip-tools, singledispatch
