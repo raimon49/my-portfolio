@@ -8,6 +8,7 @@
     * Nagoya, Japan
 * Occupations
     * Front-End (mobile app and web app) developer
+    * Engineering manager at DevOps team
 * Sex
     * male
 * Birthday
