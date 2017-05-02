@@ -17,6 +17,11 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ## Open-source contributing
 
+### 2017
+
+* [Add 'requirements.txt.vim' in Python's vim-template by raimon49 ・ Pull Request #253 ・ avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap/pull/253 "Add 'requirements.txt.vim' in Python's vim-template by raimon49 ・ Pull Request #253 ・ avelino/vim-bootstrap")
+* [Use syntax highlighting supported by GitHub and Sphinx by raimon49 ・ Pull Request #71 ・ pypa/pipfile](https://github.com/pypa/pipfile/pull/71 "Use syntax highlighting supported by GitHub and Sphinx by raimon49 ・ Pull Request #71 ・ pypa/pipfile")
+
 ### 2016
 
 * [Enable '--columns' option with text reports by raimon49 ・ Pull Request #244 ・ pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder/pull/244 "Enable '--columns' option with text reports by raimon49 ・ Pull Request #244 ・ pivotal/LicenseFinder")
