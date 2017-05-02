@@ -50,6 +50,7 @@
     * Final Fantasy series (3, 4, 5, 6)
     * Romancing SaGa series (1, 2, 3)
     * Culdcept series (still continuing!)
+    * Fire Emblem series (still continuing!)
 
 ## Job history
 
