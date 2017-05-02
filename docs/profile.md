@@ -30,6 +30,8 @@
     * Subversion
 * Database
     * MySQL
+* Management
+    * Certified ScrumMaster (2016-11)
 
 ## Interest to
 
