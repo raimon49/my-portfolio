@@ -13,7 +13,7 @@ livereload==2.5.1         # via mkdocs
 markdown==2.6.9           # via mkdocs
 markupsafe==1.0           # via jinja2
 mkdocs-bootswatch==0.4.0
-mkdocs==0.17.0
+mkdocs==0.16.3
 pip-tools==1.10.1
 pyyaml==3.12              # via mkdocs
 singledispatch==3.4.0.3   # via tornado
