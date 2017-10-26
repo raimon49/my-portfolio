@@ -19,6 +19,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2017
 
+* [Restore a link to japanese translation by raimon49 ・ Pull Request #53 ・ XVimProject/XVim2](https://github.com/XVimProject/XVim2/pull/53 "Restore a link to japanese translation by raimon49 ・ Pull Request #53 ・ XVimProject/XVim2")
 * [Support latest version of the Google code-prettify by raimon49 ・ Pull Request #181 ・ tdiary/tdiary-contrib](https://github.com/tdiary/tdiary-contrib/pull/181 "Support latest version of the Google code-prettify by raimon49 ・ Pull Request #181 ・ tdiary/tdiary-contrib")
 * [Add 'requirements.txt.vim' in Python's vim-template by raimon49 ・ Pull Request #253 ・ avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap/pull/253 "Add 'requirements.txt.vim' in Python's vim-template by raimon49 ・ Pull Request #253 ・ avelino/vim-bootstrap")
 * [Use syntax highlighting supported by GitHub and Sphinx by raimon49 ・ Pull Request #71 ・ pypa/pipfile](https://github.com/pypa/pipfile/pull/71 "Use syntax highlighting supported by GitHub and Sphinx by raimon49 ・ Pull Request #71 ・ pypa/pipfile")
