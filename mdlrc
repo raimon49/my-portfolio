@@ -1,0 +1,3 @@
+# MD013: Line length 80
+# MD039: Spaces inside link text
+rules "~MD013", "~MD039"

@@ -64,3 +64,7 @@ target/
 # For MkDocs
 # See also: http://www.mkdocs.org/
 site/
+
+# For Bundler
+/.bundle/
+/vendor/bundle
