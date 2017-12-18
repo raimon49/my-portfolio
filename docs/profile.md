@@ -4,6 +4,8 @@
 
 * Screenname
     * raimon
+* Full name
+    * Hiroyuki Kondou
 * Location of work
     * Nagoya, Japan
 * Occupations
@@ -57,7 +59,12 @@
 
 ## Job history
 
-TBA
+* 2004-01
+    * Meitetsu Information System
+* 2007-07
+    * ALPS MAPPING K.K.
+* 2008-04
+    * Yahoo Japan Corporation
 
 ## Contact me
 
