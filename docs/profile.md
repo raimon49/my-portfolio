@@ -60,11 +60,11 @@
 ## Job history
 
 * 2004-01
-    * Meitetsu Information System
+    * Meitetsu Information System Co., Ltd.
 * 2007-07
-    * ALPS MAPPING K.K.
+    * Alps Mapping K.K.
 * 2008-04
-    * Yahoo Japan Corporation
+    * Yahoo Japan Corporation.
 
 ## Contact me
 

@@ -17,9 +17,13 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ## Open-source contributing
 
+### 2018
+
+* [refactor(data-type): ドット記法アクセス時の変数名が違っているのを修正 by raimon49 ・ Pull Request #339 ・ asciidwango/js-primer](https://github.com/asciidwango/js-primer/pull/339)
+
 ### 2017
 
-* [Proposal: Add option &#39;--indent&#39; as Indent space of generated list by raimon49 ・ Pull Request #17 ・ ekalinin/github-markdown-toc.go](https://github.com/ekalinin/github-markdown-toc.go/pull/17)
+* [Proposal: Add option '--indent' as Indent space of generated list by raimon49 ・ Pull Request #17 ・ ekalinin/github-markdown-toc.go](https://github.com/ekalinin/github-markdown-toc.go/pull/17 "Proposal: Add option '--indent' as Indent space of generated list by raimon49 ・ Pull Request #17 ・ ekalinin/github-markdown-toc.go")
 * [Restore a link to japanese translation by raimon49 ・ Pull Request #53 ・ XVimProject/XVim2](https://github.com/XVimProject/XVim2/pull/53 "Restore a link to japanese translation by raimon49 ・ Pull Request #53 ・ XVimProject/XVim2")
 * [Support latest version of the Google code-prettify by raimon49 ・ Pull Request #181 ・ tdiary/tdiary-contrib](https://github.com/tdiary/tdiary-contrib/pull/181 "Support latest version of the Google code-prettify by raimon49 ・ Pull Request #181 ・ tdiary/tdiary-contrib")
 * [Add 'requirements.txt.vim' in Python's vim-template by raimon49 ・ Pull Request #253 ・ avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap/pull/253 "Add 'requirements.txt.vim' in Python's vim-template by raimon49 ・ Pull Request #253 ・ avelino/vim-bootstrap")
