@@ -19,6 +19,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2018
 
+* [Fix 'IndentationError' in release-2.6 document by raimon49 ・ Pull Request #632 ・ Python-Markdown/markdown](https://github.com/Python-Markdown/markdown/pull/632)
 * [refactor(data-type): ドット記法アクセス時の変数名が違っているのを修正 by raimon49 ・ Pull Request #339 ・ asciidwango/js-primer](https://github.com/asciidwango/js-primer/pull/339)
 
 ### 2017
