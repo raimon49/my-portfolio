@@ -4,18 +4,18 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
+-e git+https://github.com/mkdocs/mkdocs-bootswatch.git#egg=mkdocs-bootswatch
 backports-abc==0.5        # via tornado
-certifi==2017.11.5        # via tornado
+certifi==2018.1.18        # via tornado
 click==6.7                # via mkdocs, pip-tools
 first==2.0.1              # via pip-tools
 jinja2==2.10              # via mkdocs
 livereload==2.5.1         # via mkdocs
-markdown==2.6.10          # via mkdocs
+markdown==2.6.11          # via mkdocs
 markupsafe==1.0           # via jinja2
-mkdocs-bootswatch==0.4.0
-mkdocs==0.16.3
+mkdocs==0.17.2
 pip-tools==1.11.0
 pyyaml==3.12              # via mkdocs
 singledispatch==3.4.0.3   # via tornado
 six==1.11.0               # via livereload, pip-tools, singledispatch
-tornado==4.5.2            # via livereload, mkdocs
+tornado==4.5.3            # via livereload, mkdocs
