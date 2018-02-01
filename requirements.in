@@ -1,3 +1,5 @@
 mkdocs
 -e git+https://github.com/mkdocs/mkdocs-bootswatch.git#egg=mkdocs-bootswatch
+mkdocs-safe-text-plugin
 pip-tools
+pymdown-extensions

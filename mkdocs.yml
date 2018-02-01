@@ -6,4 +6,9 @@ site_author: raimon49@hotmail.com
 pages:
   - Portfolio: index.md
   - Profile: profile.md
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_alt
+plugins:
+  - mkdocs_safe_text
 theme: flatly
