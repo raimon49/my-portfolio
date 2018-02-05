@@ -12,6 +12,8 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 * [mkdocs-safe-text-plugin](https://github.com/raimon49/mkdocs-safe-text-plugin)
     * Plugin for safe text editing with MKDocs
+* [pip-licenses](https://github.com/raimon49/pip-licenses)
+    * Dump the license list of packages installed with pip
 * [requirements.txt.vim](https://github.com/raimon49/requirements.txt.vim)
     * the Requirements File Format syntax support for Vim
 * [userscripts](https://github.com/raimon49/userscripts)
