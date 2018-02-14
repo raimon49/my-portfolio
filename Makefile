@@ -7,7 +7,7 @@ help:
 	@echo ''
 	@echo 'Subcommands:'
 	@echo '    setup          Setup for venv'
-	@echo '    update-depends Re-compile requirements for development'
+	@echo '    update-depends Re-compile requirements for venv'
 	@echo '    deploy         Release to GitHub Pages'
 
 .PHONY: setup
