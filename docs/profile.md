@@ -56,6 +56,9 @@
     * Romancing SaGa series (1, 2, 3)
     * Culdcept series (still continuing!)
     * Fire Emblem series (still continuing!)
+* Mobile games
+    * Pokemon GO
+    * Fire Emblem Heroes
 
 ## Job history
 
