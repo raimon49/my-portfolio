@@ -23,6 +23,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2018
 
+* [Fix dead link in ToC by raimon49 ・ Pull Request #1121 ・ pyenv/pyenv](https://github.com/pyenv/pyenv/pull/1121)
 * [Add ignore '.pytest\_cache' directory in Unit test section by raimon49 ・ Pull Request #2594 ・ github/gitignore](https://github.com/github/gitignore/pull/2594)
 * [Fix 'IndentationError' in release-2.6 document by raimon49 ・ Pull Request #632 ・ Python-Markdown/markdown](https://github.com/Python-Markdown/markdown/pull/632)
 * [refactor(data-type): ドット記法アクセス時の変数名が違っているのを修正 by raimon49 ・ Pull Request #339 ・ asciidwango/js-primer](https://github.com/asciidwango/js-primer/pull/339)
