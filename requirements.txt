@@ -17,7 +17,7 @@ mkdocs-bootswatch==0.5.0
 mkdocs-safe-text-plugin==1.1.0
 mkdocs==0.17.3
 pip-tools==1.11.0
-pymdown-extensions==4.9.1
+pymdown-extensions==4.9.2
 pyyaml==3.12              # via mkdocs
 six==1.11.0               # via bleach, html5lib, livereload, pip-tools
 tornado==4.5.3            # via livereload, mkdocs
