@@ -59,6 +59,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2014
 
+* [Support HTTP/HTTPS loading when embed script 'disqus.com/embed.js' by raimon49 ・ Pull Request #4 ・ fle/pelican-sober](https://github.com/fle/pelican-sober/pull/4)
 * [Ready for Greasemonkey 2.0 by raimon49 ・ Pull Request #3 ・ ussy/greasemonkey](https://github.com/ussy/greasemonkey/pull/3 "Ready for Greasemonkey 2.0 by raimon49 ・ Pull Request #3 ・ ussy/greasemonkey")
 * [Add kill parameter 'rt' by raimon49 ・ Pull Request #6 ・ wedata/UrlCleaner](https://github.com/wedata/UrlCleaner/pull/6 "Add kill parameter 'rt' by raimon49 ・ Pull Request #6 ・ wedata/UrlCleaner")
 * [Add kill parameter 'iref' by raimon49 ・ Pull Request #5 ・ wedata/UrlCleaner](https://github.com/wedata/UrlCleaner/pull/5 "Add kill parameter 'iref' by raimon49 ・ Pull Request #5 ・ wedata/UrlCleaner")
