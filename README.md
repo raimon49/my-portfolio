@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/raimon49/my-portfolio.svg?branch=master)](https://travis-ci.org/raimon49/my-portfolio)
 [![Requirements Status](https://requires.io/github/raimon49/my-portfolio/requirements.svg?branch=master)](https://requires.io/github/raimon49/my-portfolio/requirements/?branch=master)
-[![Dependency Status](https://www.versioneye.com/user/projects/5b00dec70fb24f0e5d514e02/badge.svg)](https://www.versioneye.com/user/projects/5b00dec70fb24f0e5d514e02)
+[![Known Vulnerabilities](https://snyk.io/test/github/raimon49/my-portfolio/badge.svg)](https://snyk.io/test/github/raimon49/my-portfolio)
 
 My OSS activity portfolio
 
