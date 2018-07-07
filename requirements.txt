@@ -15,10 +15,10 @@ markdown==2.6.11          # via mkdocs, pymdown-extensions
 markupsafe==1.0           # via jinja2
 mkdocs-bootswatch==0.5.0
 mkdocs-safe-text-plugin==1.1.0
-mkdocs==0.17.4
+mkdocs==0.17.5
 pip-tools==2.0.2
 pymdown-extensions==4.11
-pyyaml==3.12              # via mkdocs
+pyyaml==3.13              # via mkdocs
 six==1.11.0               # via bleach, html5lib, livereload, pip-tools
 tornado==4.5.3            # via livereload, mkdocs
 webencodings==0.5.1       # via html5lib
