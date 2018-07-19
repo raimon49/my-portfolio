@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>http://raimon49.github.io/my-portfolio//</loc>
-     <lastmod>2018-04-13</lastmod>
+     <loc>http://raimon49.github.io/my-portfolio/</loc>
+     <lastmod>2018-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>http://raimon49.github.io/my-portfolio//profile/</loc>
-     <lastmod>2018-04-13</lastmod>
+     <loc>http://raimon49.github.io/my-portfolio/profile/</loc>
+     <lastmod>2018-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
