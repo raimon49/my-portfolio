@@ -15,7 +15,7 @@ markdown==2.6.11          # via mkdocs, pymdown-extensions
 markupsafe==1.0           # via jinja2
 mkdocs-bootswatch==1.0
 mkdocs-safe-text-plugin==1.1.1
-mkdocs==1.0.3
+mkdocs==1.0.4
 pip-tools==2.0.2
 pymdown-extensions==5.0
 pyyaml==3.13              # via mkdocs
