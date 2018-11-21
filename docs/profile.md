@@ -21,8 +21,9 @@
 * Front-End mobile app
     * Objective-C (iOS)
     * Swift (iOS)
-    * Java (Android, I am studying...)
+    * Java (Android)
 * Front-End server and Web API
+    * Java (Spring Boot)
     * JavaScript
     * Python
     * PHP
