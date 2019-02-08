@@ -42,10 +42,11 @@
     * See my [dotfiles](https://github.com/raimon49/dotfiles)
 * Seeing a live of Heavy Metal
     * Amorphis
-    * Soilwork
-    * Helloween
+    * Beast In Black
     * Blind Guardian
+    * Helloween
     * Rage
+    * Soilwork
 * Japanese comics
     * Weekly Shonen Jump
 * Old style video games
