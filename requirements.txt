@@ -10,13 +10,13 @@ click==7.0                # via mkdocs, pip-tools
 jinja2==2.10              # via mkdocs
 livereload==2.6.0         # via mkdocs
 markdown==3.0.1           # via mkdocs, pymdown-extensions
-markupsafe==1.1.0         # via jinja2
+markupsafe==1.1.1         # via jinja2
 mkdocs-bootswatch==1.0
 mkdocs-safe-text-plugin==1.1.1
 mkdocs==1.0.4
-pip-tools==3.3.2
+pip-tools==3.5.0
 pymdown-extensions==6.0
-pyyaml==3.13              # via mkdocs
+pyyaml==5.1               # via mkdocs
 six==1.12.0               # via bleach, livereload, pip-tools
-tornado==5.1.1            # via livereload, mkdocs
+tornado==6.0.1            # via livereload, mkdocs
 webencodings==0.5.1       # via bleach
