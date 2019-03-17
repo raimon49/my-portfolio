@@ -35,7 +35,7 @@
     * MySQL
 * Management
     * Certified ScrumMaster (2016-11)
-        * Expired in 2018-10 :sweat_smile:
+        * Expired in 2018-11 :sweat_smile: Because I didn't accept the cost for the renew.
 
 ## Interest to
 
