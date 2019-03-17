@@ -35,6 +35,7 @@
     * MySQL
 * Management
     * Certified ScrumMaster (2016-11)
+        * Expired in 2018-10 :sweat_smile:
 
 ## Interest to
 
