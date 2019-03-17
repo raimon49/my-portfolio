@@ -21,6 +21,11 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ## Open-source contributing
 
+### 2019
+
+* [Add installation guide for antigen user to README by raimon49 ・ Pull Request #12 ・ superbrothers/zsh-kubectl-prompt](https://github.com/superbrothers/zsh-kubectl-prompt/pull/12)
+* [Add 'requirements.txt.vim' to the other tools section of the README by raimon49 ・ Pull Request #760 ・ jazzband/pip-tools](https://github.com/jazzband/pip-tools/pull/760)
+
 ### 2018
 
 * [Fix mistake in abbreviation for JRE by raimon49 ・ Pull Request #248 ・ domaframework/doma](https://github.com/domaframework/doma/pull/248)
