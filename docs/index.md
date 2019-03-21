@@ -23,6 +23,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2019
 
+* [Add Python package metadata in package.json by raimon49 ・ Pull Request #1042 ・ squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material/pull/1042)
 * [Add installation guide for antigen user to README by raimon49 ・ Pull Request #12 ・ superbrothers/zsh-kubectl-prompt](https://github.com/superbrothers/zsh-kubectl-prompt/pull/12)
 * [Add 'requirements.txt.vim' to the other tools section of the README by raimon49 ・ Pull Request #760 ・ jazzband/pip-tools](https://github.com/jazzband/pip-tools/pull/760)
 
