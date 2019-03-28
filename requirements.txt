@@ -9,7 +9,7 @@ bleach==3.1.0             # via mkdocs-safe-text-plugin
 click==7.0                # via mkdocs, pip-tools
 jinja2==2.10              # via mkdocs
 livereload==2.6.0         # via mkdocs
-markdown==3.0.1           # via mkdocs, pymdown-extensions
+markdown==3.1             # via mkdocs, pymdown-extensions
 markupsafe==1.1.1         # via jinja2
 mkdocs-bootswatch==1.0
 mkdocs-safe-text-plugin==1.1.1
