@@ -12,7 +12,7 @@ livereload==2.6.0         # via mkdocs
 markdown==3.1             # via mkdocs, pymdown-extensions
 markupsafe==1.1.1         # via jinja2
 mkdocs-bootswatch==1.0
-mkdocs-safe-text-plugin==1.1.1
+mkdocs-safe-text-plugin==1.1.2
 mkdocs==1.0.4
 pip-tools==3.5.0
 pymdown-extensions==6.0
