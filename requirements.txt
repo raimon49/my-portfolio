@@ -4,17 +4,17 @@
 #
 #    pip-compile -U requirements.in
 #
-bleach-whitelist==0.0.9   # via mkdocs-safe-text-plugin
+bleach-whitelist==0.0.10  # via mkdocs-safe-text-plugin
 bleach==3.1.0             # via mkdocs-safe-text-plugin
 click==7.0                # via mkdocs, pip-tools
-jinja2==2.10              # via mkdocs
+jinja2==2.10.1            # via mkdocs
 livereload==2.6.0         # via mkdocs
 markdown==3.1             # via mkdocs, pymdown-extensions
 markupsafe==1.1.1         # via jinja2
 mkdocs-bootswatch==1.0
 mkdocs-safe-text-plugin==1.1.2
 mkdocs==1.0.4
-pip-tools==3.5.0
+pip-tools==3.6.0
 pymdown-extensions==6.0
 pyyaml==5.1               # via mkdocs
 six==1.12.0               # via bleach, livereload, pip-tools
