@@ -75,5 +75,5 @@
 ## Contact me
 
 * [Instagram](https://www.instagram.com/raimon49/) :ramen: :beer:
-* [GitHub](http://github.com/raimon49) :jp: :computer:
+* [GitHub](https://github.com/raimon49) :jp: :computer:
 * [Twitter](https://twitter.com/raimon49) :metal: :video_game:
