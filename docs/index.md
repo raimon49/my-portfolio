@@ -23,6 +23,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2019
 
+* [Support rel canonical link by raimon49 ・ Pull Request #22 ・ molivier/nest](https://github.com/molivier/nest/pull/22)
 * [Support underscore in URLs by raimon49 ・ Pull Request #65 ・ ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim/pull/65)
 * [Fix match pattern in operator by raimon49 ・ Pull Request #4 ・ cfdrake/vim-carthage](https://github.com/cfdrake/vim-carthage/pull/4)
 * [Fix typo in Version History for 6.0.0 by raimon49 ・ Pull Request #283 ・ erikrose/more-itertools](https://github.com/erikrose/more-itertools/pull/283)
