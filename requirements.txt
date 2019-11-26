@@ -15,7 +15,7 @@ mkdocs-bootswatch==1.0
 mkdocs-safe-text-plugin==1.1.2
 mkdocs==1.0.4
 pep562==1.0               # via pymdown-extensions
-pip-tools==4.2.0
+pip-tools==4.3.0
 pymdown-extensions==6.2
 pyyaml==5.1.2             # via mkdocs
 six==1.13.0               # via bleach, livereload, pip-tools
@@ -23,4 +23,4 @@ tornado==6.0.3            # via livereload, mkdocs
 webencodings==0.5.1       # via bleach
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.6.0        # via markdown
+# setuptools==42.0.1        # via markdown
