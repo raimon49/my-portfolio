@@ -5,7 +5,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 ## About me
 
 * [Profile of raimon](profile.md)
-* [My Tech Blog](https://raimon49.github.io/)
+* [My Tech Blog](https://raimon49.github.io)
     * Written in Japanese
 
 ## Open-source software product
