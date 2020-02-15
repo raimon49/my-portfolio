@@ -7,18 +7,17 @@
 bleach-whitelist==0.0.10  # via mkdocs-safe-text-plugin
 bleach==3.1.0             # via mkdocs-safe-text-plugin
 click==7.0                # via mkdocs, pip-tools
-jinja2==2.10.3            # via mkdocs
+jinja2==2.11.1            # via mkdocs
 livereload==2.6.1         # via mkdocs
-markdown==3.1.1           # via mkdocs, pymdown-extensions
+markdown==3.2.1           # via mkdocs, pymdown-extensions
 markupsafe==1.1.1         # via jinja2
 mkdocs-bootswatch==1.0
-mkdocs-safe-text-plugin==1.1.2
+mkdocs-safe-text-plugin==1.2.0
 mkdocs==1.0.4
-pep562==1.0               # via pymdown-extensions
-pip-tools==4.3.0
-pymdown-extensions==6.2.1
-pyyaml==5.2               # via mkdocs
-six==1.13.0               # via bleach, livereload, pip-tools
+pip-tools==4.4.1
+pymdown-extensions==6.3
+pyyaml==5.3               # via mkdocs
+six==1.14.0               # via bleach, livereload, pip-tools
 tornado==6.0.3            # via livereload, mkdocs
 webencodings==0.5.1       # via bleach
 
