@@ -13,15 +13,15 @@ livereload==2.6.1         # via mkdocs
 lunr[languages]==0.5.6    # via mkdocs
 markdown==3.2.1           # via mkdocs, pymdown-extensions
 markupsafe==1.1.1         # via jinja2
-mkdocs-bootswatch==1.1
-mkdocs-safe-text-plugin==1.2.0
-mkdocs==1.1
+mkdocs-bootswatch==1.1    # via -r requirements.in
+mkdocs-safe-text-plugin==1.2.0  # via -r requirements.in
+mkdocs==1.1               # via -r requirements.in, mkdocs-bootswatch, mkdocs-safe-text-plugin
 nltk==3.4.5               # via lunr
-pip-tools==4.5.1
-pymdown-extensions==6.3
+pip-tools==4.5.1          # via -r requirements.in
+pymdown-extensions==6.3   # via -r requirements.in
 pyyaml==5.3               # via mkdocs
-six==1.14.0               # via bleach, livereload, lunr, nltk, pip-tools
-tornado==6.0.3            # via livereload, mkdocs
+six==1.14.0               # via bleach, livereload, lunr, pip-tools
+tornado==6.0.4            # via livereload, mkdocs
 webencodings==0.5.1       # via bleach
 
 # The following packages are considered to be unsafe in a requirements file:
