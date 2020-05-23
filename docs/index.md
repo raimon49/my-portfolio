@@ -10,6 +10,8 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ## Open-source software product
 
+* [asdf-goss](https://github.com/raimon49/asdf-goss)
+    * Goss as a server testing tool plugin for asdf version manager
 * [mkdocs-safe-text-plugin](https://github.com/raimon49/mkdocs-safe-text-plugin)
     * Plugin for safe text editing with MKDocs
 * [pip-licenses](https://github.com/raimon49/pip-licenses)
