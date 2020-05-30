@@ -23,6 +23,10 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ## Open-source contributing
 
+### 2020
+
+* [Fix dead link by changing the extension to sh by raimon49 ・ Pull Request #733 ・ asdf-vm/asdf](https://github.com/asdf-vm/asdf/pull/733)
+
 ### 2019
 
 * [Update document about Alternative Installation by raimon49 ・ Pull Request #6790 ・ Homebrew/brew](https://github.com/Homebrew/brew/pull/6790)
