@@ -25,6 +25,7 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ### 2020
 
+* [Add a range of Kana characters by raimon49 ・ Pull Request #67 ・ mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc/pull/67)
 * [Fix dead link by changing the extension to sh by raimon49 ・ Pull Request #733 ・ asdf-vm/asdf](https://github.com/asdf-vm/asdf/pull/733)
 
 ### 2019
