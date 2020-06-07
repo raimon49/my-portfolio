@@ -10,7 +10,7 @@ click==7.1.2              # via mkdocs, nltk, pip-tools
 future==0.18.2            # via lunr
 jinja2==2.11.2            # via mkdocs
 joblib==0.15.1            # via nltk
-livereload==2.6.1         # via mkdocs
+livereload==2.6.2         # via mkdocs
 lunr[languages]==0.5.8    # via mkdocs
 markdown==3.2.2           # via mkdocs, pymdown-extensions
 markupsafe==1.1.1         # via jinja2
@@ -23,7 +23,7 @@ pip-tools==5.2.0          # via -r requirements.in
 pymdown-extensions==7.1   # via -r requirements.in
 pyparsing==2.4.7          # via packaging
 pyyaml==5.3.1             # via mkdocs
-regex==2020.5.14          # via nltk
+regex==2020.6.7           # via nltk
 six==1.15.0               # via bleach, livereload, lunr, packaging, pip-tools
 tornado==6.0.4            # via livereload, mkdocs
 tqdm==4.46.1              # via nltk
