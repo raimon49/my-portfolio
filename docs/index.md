@@ -23,6 +23,8 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 ## Open-source contributing
 
+See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr+author%3Araimon49+is%3Amerged+-user%3Araimon49+is%3Apublic)
+
 ### 2020
 
 * [Add a range of Kana characters by raimon49 ・ Pull Request #67 ・ mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc/pull/67)
