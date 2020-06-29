@@ -20,10 +20,16 @@ Update dependencies
 
 ```sh
 $ pip-compile -U requirements.in
+
+# Or use make target
+$ make update-depends
 ```
 
 ## Deployment
 
 ```sh
 $ mkdocs gh-deploy --clean
+
+# Or use make target
+$ make deploy
 ```
