@@ -9,7 +9,7 @@ bleach==3.1.5             # via mkdocs-safe-text-plugin
 click==7.1.2              # via mkdocs, nltk, pip-tools
 future==0.18.2            # via lunr
 jinja2==2.11.2            # via mkdocs
-joblib==0.15.1            # via nltk
+joblib==0.16.0            # via nltk
 livereload==2.6.2         # via mkdocs
 lunr[languages]==0.5.8    # via mkdocs
 markdown==3.2.2           # via mkdocs, pymdown-extensions
