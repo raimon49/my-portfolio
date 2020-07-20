@@ -23,10 +23,10 @@ pip-tools==5.2.1          # via -r requirements.in
 pymdown-extensions==7.1   # via -r requirements.in
 pyparsing==2.4.7          # via packaging
 pyyaml==5.3.1             # via mkdocs
-regex==2020.6.8           # via nltk
+regex==2020.7.14          # via nltk
 six==1.15.0               # via bleach, livereload, lunr, packaging, pip-tools
 tornado==6.0.4            # via livereload, mkdocs
-tqdm==4.47.0              # via nltk
+tqdm==4.48.0              # via nltk
 webencodings==0.5.1       # via bleach
 
 # The following packages are considered to be unsafe in a requirements file:
