@@ -20,7 +20,7 @@ mkdocs==1.1.2             # via -r requirements.in, mkdocs-bootswatch, mkdocs-sa
 nltk==3.5                 # via lunr
 packaging==20.4           # via bleach
 pip-tools==5.3.1          # via -r requirements.in
-pymdown-extensions==7.1   # via -r requirements.in
+pymdown-extensions==8.0   # via -r requirements.in
 pyparsing==2.4.7          # via packaging
 pyyaml==5.3.1             # via mkdocs
 regex==2020.7.14          # via nltk
