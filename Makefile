@@ -1,3 +1,4 @@
+VENV_NAME?='venv/my-portfolio'
 DEPENDS='requirements'
 
 .DEFAULT_GOAL:=help
@@ -13,7 +14,8 @@ help:
 
 .PHONY: setup
 setup:
-	pip install -r $(DEPENDS).txt
+	test -d || python -m venv $(VENV_NAME)
+	$(VENV_NAME)/bin/python -m pip install -r $(DEPENDS).txt
 	bundle install --path vendor/bundle
 
 .PHONY: test
