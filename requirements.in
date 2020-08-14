@@ -1,5 +1,5 @@
 mkdocs
 mkdocs-bootswatch
-mkdocs-safe-text-plugin<1.3.0
+mkdocs-safe-text-plugin
 pip-tools
 pymdown-extensions
