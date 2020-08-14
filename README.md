@@ -6,6 +6,14 @@
 
 My OSS activity portfolio
 
+## Setup
+
+Ruby and Python 3 as system requirements
+
+```sh
+$ make setup
+```
+
 ## Debugging
 
 Run local server
