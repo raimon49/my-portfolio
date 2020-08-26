@@ -14,7 +14,7 @@ help:
 
 .PHONY: setup
 setup:
-	test -d venv || python -m venv $(VENV_NAME)
+	test -d $(VENV_NAME) || python -m venv $(VENV_NAME)
 	$(VENV_NAME)/bin/python -m pip install -r $(DEPENDS).txt
 	bundle install --path vendor/bundle
 
