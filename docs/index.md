@@ -27,6 +27,7 @@ See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr
 
 ### 2020
 
+* [Remove duplicate license trove classifiers by raimon49 ・ Pull Request #460 ・ jaraco/keyring](https://github.com/jaraco/keyring/pull/460)
 * [Add the last comma for restore load 'ul' tag in Markdown allowlist by raimon49 ・ Pull Request #2 ・ yourcelf/bleach-allowlist](https://github.com/yourcelf/bleach-allowlist/pull/2#event-3652542709)
 * [docs: Suggestion - Provide consistency in the description of setup.cfg by raimon49 ・ Pull Request #2314 ・ pypa/setuptools](https://github.com/pypa/setuptools/pull/2314)
 * [Add a range of Kana characters by raimon49 ・ Pull Request #67 ・ mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc/pull/67)
