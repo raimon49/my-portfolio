@@ -23,7 +23,7 @@ pip-tools==5.3.1          # via -r requirements.in
 pymdown-extensions==8.0.1  # via -r requirements.in
 pyparsing==2.4.7          # via packaging
 pyyaml==5.3.1             # via mkdocs
-regex==2020.10.28         # via nltk
+regex==2020.11.11         # via nltk
 six==1.15.0               # via bleach, livereload, lunr, packaging, pip-tools
 tornado==6.1              # via livereload, mkdocs
 tqdm==4.51.0              # via nltk
