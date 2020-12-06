@@ -1,6 +1,6 @@
 REPO_NAME:=$(shell basename -s .git `git remote get-url origin`)
 VENV_NAME:='venv/$(REPO_NAME)'
-DEPENDS='requirements'
+DEPENDS:='requirements'
 
 .DEFAULT_GOAL:=help
 .PHONY: help
