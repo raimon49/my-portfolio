@@ -6,7 +6,7 @@
 #
 bleach-allowlist==1.0.3
     # via mkdocs-safe-text-plugin
-bleach==3.2.1
+bleach==3.2.2
     # via mkdocs-safe-text-plugin
 click==7.1.2
     # via
@@ -48,7 +48,7 @@ pymdown-extensions==8.1
     # via -r requirements.in
 pyparsing==2.4.7
     # via packaging
-pyyaml==5.3.1
+pyyaml==5.4.1
     # via mkdocs
 regex==2020.11.13
     # via nltk
