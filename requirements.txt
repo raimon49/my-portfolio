@@ -17,7 +17,7 @@ future==0.18.2
     # via lunr
 jinja2==2.11.3
     # via mkdocs
-joblib==1.0.0
+joblib==1.0.1
     # via nltk
 livereload==2.6.3
     # via mkdocs
@@ -61,7 +61,7 @@ tornado==6.1
     # via
     #   livereload
     #   mkdocs
-tqdm==4.56.0
+tqdm==4.56.2
     # via nltk
 webencodings==0.5.1
     # via bleach
