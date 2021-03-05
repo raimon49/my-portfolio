@@ -23,7 +23,7 @@ livereload==2.6.3
     # via mkdocs
 lunr[languages]==0.5.8
     # via mkdocs
-markdown==3.3.3
+markdown==3.3.4
     # via
     #   mkdocs
     #   pymdown-extensions
@@ -61,7 +61,7 @@ tornado==6.1
     # via
     #   livereload
     #   mkdocs
-tqdm==4.57.0
+tqdm==4.58.0
     # via nltk
 webencodings==0.5.1
     # via bleach
