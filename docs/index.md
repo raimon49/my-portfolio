@@ -27,6 +27,10 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr+author%3Araimon49+is%3Amerged+-user%3Araimon49+is%3Apublic)
 
+### 2021
+
+* [Change build status URLs to GitHub Actions by raimon49 · Pull Request #938 · tdiary/tdiary-core](https://github.com/tdiary/tdiary-core/pull/938)
+
 ### 2020
 
 * [Add hey plugin by raimon49 ・ Pull Request #309 ・ asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins/pull/309)
