@@ -38,13 +38,13 @@ mkdocs==1.1.2
     #   -r requirements.in
     #   mkdocs-bootswatch
     #   mkdocs-safe-text-plugin
-nltk==3.6.1
+nltk==3.6.2
     # via lunr
 packaging==20.9
     # via bleach
 pep517==0.10.0
     # via pip-tools
-pip-tools==6.0.1
+pip-tools==6.1.0
     # via -r requirements.in
 pymdown-extensions==8.1.1
     # via -r requirements.in
