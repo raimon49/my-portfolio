@@ -29,6 +29,7 @@ See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr
 
 ### 2021
 
+* [Change link to MKdocs to HTTPS by raimon49 · Pull Request #54 · gristlabs/mkdocs-windmill](https://github.com/gristlabs/mkdocs-windmill/pull/54#event-4852995887)
 * [Change build status URLs to GitHub Actions by raimon49 · Pull Request #938 · tdiary/tdiary-core](https://github.com/tdiary/tdiary-core/pull/938)
 
 ### 2020
