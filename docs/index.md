@@ -27,6 +27,10 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr+author%3Araimon49+is%3Amerged+-user%3Araimon49+is%3Apublic)
 
+### 2022
+
+* [Add keywords for gitGraph syntax by raimon49 · Pull Request #1 · mracos/mermaid.vim](https://github.com/mracos/mermaid.vim/pull/1)
+
 ### 2021
 
 * [Change link to MKdocs to HTTPS by raimon49 · Pull Request #54 · gristlabs/mkdocs-windmill](https://github.com/gristlabs/mkdocs-windmill/pull/54#event-4852995887)
