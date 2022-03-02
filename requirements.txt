@@ -8,13 +8,13 @@ bleach==4.1.0
     # via mkdocs-safe-text-plugin
 bleach-allowlist==1.0.3
     # via mkdocs-safe-text-plugin
-click==8.0.3
+click==8.0.4
     # via
     #   mkdocs
     #   pip-tools
 ghp-import==2.0.2
     # via mkdocs
-importlib-metadata==4.11.1
+importlib-metadata==4.11.2
     # via
     #   markdown
     #   mkdocs
@@ -24,7 +24,7 @@ markdown==3.3.6
     # via
     #   mkdocs
     #   pymdown-extensions
-markupsafe==2.0.1
+markupsafe==2.1.0
     # via jinja2
 mergedeep==1.3.4
     # via mkdocs
@@ -35,7 +35,7 @@ mkdocs==1.2.3
     #   mkdocs-safe-text-plugin
 mkdocs-bootswatch==1.1
     # via -r requirements.in
-mkdocs-safe-text-plugin==1.3.1
+mkdocs-safe-text-plugin==1.4.0
     # via -r requirements.in
 packaging==21.3
     # via

@@ -1,7 +1,6 @@
 # my-portfolio
 
 [![Build Status](https://github.com/raimon49/my-portfolio/workflows/Ruby/badge.svg)](https://github.com/raimon49/my-portfolio/actions?query=workflow%3ARuby)
-[![Requirements Status](https://requires.io/github/raimon49/my-portfolio/requirements.svg?branch=master)](https://requires.io/github/raimon49/my-portfolio/requirements/?branch=master)
 [![Known Vulnerabilities](https://snyk.io/test/github/raimon49/my-portfolio/badge.svg)](https://snyk.io/test/github/raimon49/my-portfolio)
 
 My OSS activity portfolio
