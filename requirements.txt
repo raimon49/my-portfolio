@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-bleach==4.1.0
+bleach==5.0.0
     # via mkdocs-safe-text-plugin
 bleach-allowlist==1.0.3
     # via mkdocs-safe-text-plugin
@@ -38,16 +38,14 @@ mkdocs-bootswatch==1.1
 mkdocs-safe-text-plugin==1.4.0
     # via -r requirements.in
 packaging==21.3
-    # via
-    #   bleach
-    #   mkdocs
+    # via mkdocs
 pep517==0.12.0
     # via pip-tools
-pip-tools==6.5.1
+pip-tools==6.6.0
     # via -r requirements.in
 pymdown-extensions==9.3
     # via -r requirements.in
-pyparsing==3.0.7
+pyparsing==3.0.8
     # via packaging
 python-dateutil==2.8.2
     # via ghp-import
@@ -69,7 +67,7 @@ webencodings==0.5.1
     # via bleach
 wheel==0.37.1
     # via pip-tools
-zipp==3.7.0
+zipp==3.8.0
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
