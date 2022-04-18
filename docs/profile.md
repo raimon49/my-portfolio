@@ -11,6 +11,7 @@
 * Occupations
     * Front-End (mobile app and web app) developer
     * Engineering Lead and Scrum Master at DevOps team
+    * Information Security Manager
 * Sex
     * male
 * Birthday
