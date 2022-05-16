@@ -29,6 +29,7 @@ See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr
 
 ### 2022
 
+* [docs: Change CI status badge of asdf-goss/asdf-hey by raimon49 · Pull Request #592 · asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins/pull/592)
 * [Add keywords for gitGraph syntax by raimon49 · Pull Request #1 · mracos/mermaid.vim](https://github.com/mracos/mermaid.vim/pull/1)
 
 ### 2021
