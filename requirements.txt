@@ -41,11 +41,11 @@ packaging==21.3
     # via mkdocs
 pep517==0.12.0
     # via pip-tools
-pip-tools==6.6.0
+pip-tools==6.6.1
     # via -r requirements.in
 pymdown-extensions==9.4
     # via -r requirements.in
-pyparsing==3.0.8
+pyparsing==3.0.9
     # via packaging
 python-dateutil==2.8.2
     # via ghp-import
@@ -61,7 +61,7 @@ six==1.16.0
     #   python-dateutil
 tomli==2.0.1
     # via pep517
-watchdog==2.1.7
+watchdog==2.1.8
     # via mkdocs
 webencodings==0.5.1
     # via bleach
