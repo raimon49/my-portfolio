@@ -11,6 +11,7 @@ help:
 	@echo '    setup          Setup for venv'
 	@echo '    test           Lint for Markdown'
 	@echo '    update-depends Re-compile requirements for venv'
+	@echo '    preview        Preview pages on local server'
 	@echo '    deploy         Release to GitHub Pages'
 
 .PHONY: setup
@@ -26,6 +27,10 @@ test:
 .PHONY: update-depends
 update-depends:
 	pip-compile -U $(DEPENDS).in
+
+.PHONY: preview
+preview:
+	mkdocs serve --no-livereload
 
 .PHONY: deploy
 deploy:
