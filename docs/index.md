@@ -31,6 +31,7 @@ See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr
 
 ### 2022
 
+* [Fix dead link for v1.0.0 users by raimon49 · Pull Request #122 · heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc/pull/122)
 * [feat: add Hurl plugin by raimon49 · Pull Request #711 · asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins/pull/711)
 * [docs: Change CI status badge of asdf-goss/asdf-hey by raimon49 · Pull Request #592 · asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins/pull/592)
 * [Add keywords for gitGraph syntax by raimon49 · Pull Request #1 · mracos/mermaid.vim](https://github.com/mracos/mermaid.vim/pull/1)
