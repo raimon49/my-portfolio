@@ -51,7 +51,7 @@
     * Soilwork
 * Japanese comics
     * Weekly Shonen Jump
-* Old style video games
+* Old school video games
     * NiGHTS
     * Sonic Adventure
     * Virtua Fighter series (2, 3, 4)
