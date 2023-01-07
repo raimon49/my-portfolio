@@ -16,7 +16,7 @@ click==8.1.3
     #   pip-tools
 ghp-import==2.1.0
     # via mkdocs
-importlib-metadata==5.2.0
+importlib-metadata==6.0.0
     # via
     #   markdown
     #   mkdocs
@@ -65,7 +65,7 @@ tomli==2.0.1
     # via
     #   build
     #   pep517
-watchdog==2.2.0
+watchdog==2.2.1
     # via mkdocs
 webencodings==0.5.1
     # via bleach
