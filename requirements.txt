@@ -39,7 +39,7 @@ mkdocs-bootswatch==1.1
     # via -r requirements.in
 mkdocs-safe-text-plugin==1.5.1
     # via -r requirements.in
-packaging==22.0
+packaging==23.0
     # via
     #   build
     #   mkdocs
