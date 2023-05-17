@@ -45,7 +45,7 @@ packaging==23.0
     #   mkdocs
 pip-tools==6.12.3
     # via -r requirements.in
-pymdown-extensions==9.10
+pymdown-extensions==10.0
     # via -r requirements.in
 pyproject-hooks==1.0.0
     # via build
