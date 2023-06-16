@@ -29,6 +29,10 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 See all activity in [GitHub advanced search](https://github.com/search?q=is%3Apr+author%3Araimon49+is%3Amerged+-user%3Araimon49+is%3Apublic)
 
+### 2023
+
+* [Fix link to RetryTemplate examples by raimon49 · Pull Request #363 · spring-projects/spring-retry](https://github.com/spring-projects/spring-retry/pull/363)
+
 ### 2022
 
 * [Fix dead link for v1.0.0 users by raimon49 · Pull Request #122 · heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc/pull/122)
