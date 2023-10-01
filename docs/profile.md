@@ -72,6 +72,8 @@
     * Alps Mapping K.K.
 * 2008-04
     * Yahoo Japan Corporation.
+* 2023-10
+    * LY Corporation.
 
 ## Contact me
 
