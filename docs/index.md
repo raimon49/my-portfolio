@@ -12,6 +12,8 @@ This page is a portfolio about the OSS activity of [raimon](https://github.com/r
 
 * [asdf-hey](https://github.com/raimon49/asdf-hey)
     * hey as a tiny program that sends some load tool plugin for asdf version manager
+* [asdf-jnv](https://github.com/raimon49/asdf-jnv)
+    * jnv plugin for asdf version manager
 * [asdf-hurl](https://github.com/raimon49/asdf-hurl)
     * Hurl plugin for asdf version manager
 * [asdf-goss](https://github.com/raimon49/asdf-goss)
