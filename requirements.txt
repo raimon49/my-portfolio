@@ -16,7 +16,7 @@ click==8.1.7
     #   pip-tools
 ghp-import==2.1.0
     # via mkdocs
-importlib-metadata==7.1.0
+importlib-metadata==8.0.0
     # via
     #   build
     #   markdown
@@ -47,7 +47,7 @@ mkdocs-get-deps==0.2.0
     # via mkdocs
 mkdocs-safe-text-plugin==1.5.1
     # via -r requirements.in
-packaging==24.0
+packaging==24.1
     # via
     #   build
     #   mkdocs
@@ -81,13 +81,13 @@ tomli==2.0.1
     # via
     #   build
     #   pip-tools
-watchdog==4.0.0
+watchdog==4.0.1
     # via mkdocs
 webencodings==0.5.1
     # via bleach
 wheel==0.43.0
     # via pip-tools
-zipp==3.18.2
+zipp==3.19.2
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
