@@ -74,6 +74,9 @@
     * Yahoo Japan Corporation.
 * 2023-10
     * LY Corporation.
+* 2025-10
+    * Unemployed
+    * **Retired as a software engineer**
 
 ## Contact me
 
